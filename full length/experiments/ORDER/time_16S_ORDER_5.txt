@@ -1,0 +1,3 @@
+ORDER
+Number of sequences: 3000 
+Total time: 258.08972617800464

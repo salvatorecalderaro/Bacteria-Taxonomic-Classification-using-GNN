@@ -1,0 +1,3 @@
+FAMILY
+Number of sequences: 3000 
+Total time: 258.8586329339887

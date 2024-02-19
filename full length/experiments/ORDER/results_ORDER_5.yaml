@@ -1,0 +1,15 @@
+Accuracy:
+  Mean: 0.9606666624546051
+  Standard Deviation: 0.010198049563277243
+F1-Score:
+  Mean: 0.9619766592979431
+  Standard Deviation: 0.009285928349434145
+MCC:
+  Mean: 0.9528476357460022
+  Standard Deviation: 0.01220830351449383
+Precision:
+  Mean: 0.9675921380519867
+  Standard Deviation: 0.007601454193764971
+Recall:
+  Mean: 0.9606666386127471
+  Standard Deviation: 0.010198023846523357

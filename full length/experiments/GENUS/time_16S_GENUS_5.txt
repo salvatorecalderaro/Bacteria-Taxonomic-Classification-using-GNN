@@ -1,0 +1,3 @@
+GENUS
+Number of sequences: 3000 
+Total time: 268.6994380010001
